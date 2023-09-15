@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 22px;
+  color: seashell;
+  background-color: black;
+  opacity: 0.9;
+  text-align: center;
+}
+
+.products_items img {
+  height: 200px;
+  width: 300px;
+}
+
+.banner {
+  background-image: url('./images/img-mission-background.jpg');
+  height: 700px;
+}
+
+.locations {
+  background-image: url('./images/img-locations-background.jpg');
+  height: 500px;
+}
